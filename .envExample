@@ -1,0 +1,4 @@
+DATABASE=database_name
+DB_USERNAME=database_username
+DB_PASSWORD=""
+DB_DIALECT=mysql
